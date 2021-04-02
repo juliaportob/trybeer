@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a:visited {
+  color: #0275d8;
+}
+
+a:hover {
+  color: #0275d8;
+  text-decoration: none;
+}
+
+a:active {
+  color: #0275d8;
+}
+
+.adm-container {
+  position: fixed;
+  background-color: #623812ff;
+  color: #f7f7f7;
+  height: 100vh;
+  padding-top: 2vh;
+  padding-left: 2vh;
+  width: 18vw;
+}
+
+.adm-title {
+  margin-bottom: 5vh;
+}
+
+.adm-navbar {
+  display: flex;
+  flex-direction: column;
+  font-size: 4vh;
+}
+
+.adm-link {
+  margin: 10vh 0;
+}
+
+.adm-body {
+  margin-left: 20vw;
+}
+
+.p-content {
+  line-height: 100%;
+  letter-spacing: 0.05em;
+}
+
+.p-content-oc {
+  margin-left: 35px;
+  color:#292b2c;
+  margin-top: 10px;
+}
+
+.product-card-main-div {
+  width: 55%;
+}
+
+.products-main-div {
+  background: radial-gradient(circle, #e5ce8480 50%, #e5b72280 100%);
+  height: 150%;
+}
+
+.checkout-main-div {
+  background: radial-gradient(circle, #e5ce8480 50%, #e5b72280 100%);
+  height: 168vh;
+}
+
+.cardcheckout-main-div {
+  background: #ffffffff;
+}
+
+.btn-product {
+  background-color: #e5b622ff;
+}
+
+.btn-exclude {
+  background: #623812ff;
+}
+
+.orders-main-div {
+  background: radial-gradient(circle, #e5ce8480 50%, #e5b72280 100%);
+  height: 100vh;
+}
+
+.order-card-main-div {
+  background: #ffffffff;
+}
+
+.profile-main-div {
+  background: radial-gradient(circle, #e5ce8480 50%, #e5b72280 100%);
+  height: 105vh;
+}
+
+.btn-save {
+  background: #623812ff;
+}
+
+.menu-top-nav {
+  background: #623812ff;
+}
+
+.link-color {
+  color: #623812ff;
+}
+
+/* 
+CSS HEX
+--black: #000000ff;
+--white: #ffffffff;
+--platinum: #e5e5e5ff;
+--flax: #e5ce84ff;
+--grullo: #b19c89ff;
+--saffron: #e5b622ff;
+--pullman-brown-ups-brown: #623812ff;
+--black-chocolate: #1e140bff;
+--rich-black-fogra-39: #0c0a08ff;
+*/
