@@ -1,6 +1,6 @@
 # TryBeer Projects!
 
-Este foi um projeto realizado para o curso de Desenvolvedor Web Full Stack da Trybe, e foi construído ao no módulo de Back-End.
+Este foi um projeto realizado para o curso de Desenvolvedor Web Full Stack da Trybe, e foi construído durante o módulo de Back-End.
 
 ---
 
