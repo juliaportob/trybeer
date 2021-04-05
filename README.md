@@ -6,7 +6,7 @@ Este foi um projeto realizado para o curso de Desenvolvedor Web Full Stack da Tr
 
 # Habilidades
 
-Nesse projeto, você será capaz de:
+O que realizei nesse projeto:
 
 - Aderência ao padrão REST na API;
 - Utilizar Context API e React Hooks no Front-End
